@@ -1,0 +1,9 @@
+
+
+Enter Your Location : delhi
+
+Weather Stats for - delhi
+Current Temperature:  36.05 deg C
+Current Weather : haze
+Current Humidity : 30%
+Current Wind Speed : 2.57kmph
